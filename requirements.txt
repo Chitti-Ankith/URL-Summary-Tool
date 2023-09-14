@@ -1,0 +1,5 @@
+evadb==0.3.0
+openai
+pandas
+validators
+langchain
