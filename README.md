@@ -22,3 +22,22 @@ Run script:
 ```bat
 python url_summary.py
 ```
+
+## Example
+
+```bat
+🔮 Welcome to EvaDB! This app lets you summarize the content of any URL.
+
+🔑 Enter your OpenAI API key: <API_KEY>
+🔗 Enter the URL (press Enter to use our default URL) : <URL_here>
+
+⏳ Loading URL data
+
+⏳ Generating Summary (may take a while)... 
+
+<GENERATED_SUMMARY_IN_250-300_WORDS>
+
+✅ Session ended.
+===========================================
+
+```
